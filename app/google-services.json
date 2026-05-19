@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "831371982374",
+    "project_id": "kalavidra-balaga",
+    "storage_bucket": "kalavidra-balaga.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:831371982374:android:7c44f6e281811810ac58e7",
+        "android_client_info": {
+          "package_name": "com.example.kalavidrabalaga"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC3Q83edcP0gULj3O3siUicaoC8EG5-3BM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:831371982374:android:785e3db6e555d8edac58e7",
+        "android_client_info": {
+          "package_name": "com.thanuja.kalavidarabalaga"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC3Q83edcP0gULj3O3siUicaoC8EG5-3BM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
